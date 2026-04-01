@@ -12,8 +12,3 @@ This project predicts:
 ## Models
 - XGBoost for covers_count
 - XGBoost for avg_check
-
-## Run locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
